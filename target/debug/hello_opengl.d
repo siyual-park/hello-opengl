@@ -1,0 +1,1 @@
+/Users/siyual-park/Project/hello_opengl/target/debug/hello_opengl: /Users/siyual-park/Project/hello_opengl/src/_1_getting_started/_1_1_hello_window.rs /Users/siyual-park/Project/hello_opengl/src/_1_getting_started/mod.rs /Users/siyual-park/Project/hello_opengl/src/main.rs /Users/siyual-park/Project/hello_opengl/target/debug/debug/build/gl-d2224780f9f0348c/out/bindings.rs
